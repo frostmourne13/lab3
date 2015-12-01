@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace lab3
+namespace CreditCard
 {
-    class Program
+    public class Class1
     {
-        static void Main(string[] args)
+        public int Add(int a, int b)
         {
+            return a + b;
         }
     }
 }

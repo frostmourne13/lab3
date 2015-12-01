@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("lab3")]
+[assembly: AssemblyTitle("CreditCard")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("lab3")]
+[assembly: AssemblyProduct("CreditCard")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("83cde40a-7f43-4919-9c99-7d9f93cfbe15")]
+[assembly: Guid("6f73aa3a-0c86-4fd2-9b9e-f5f4af1fba57")]
 
 // Version information for an assembly consists of the following four values:
 //
